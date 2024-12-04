@@ -20,9 +20,9 @@ public class GateApperance : MonoBehaviour
     [SerializeField] Color _colorPositiv;
     [SerializeField] Color _colorNegative;
 
-    [SerializeField] int value;
+    //[SerializeField] int value;
 
-    [SerializeField] deformationType _deformationType;
+    //[SerializeField] deformationType _deformationType;
     [SerializeField] GameObject _epandLable;
     [SerializeField] GameObject _shrinkLable;
     [SerializeField] GameObject _upLable;
